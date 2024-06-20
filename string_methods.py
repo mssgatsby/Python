@@ -12,4 +12,4 @@ print(casStr)  # hello world
 print(lowStr)  # hello world
 # lower only converts ASCII based characters. casefold converts other (German based or other language unique characters)
 # types to lowercase as well. Lower works faster
-# g
+# gello worldhsbhsdhb
